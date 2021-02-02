@@ -1,6 +1,6 @@
 {
     "require": {
-        "illuminate/database": "^6.20"
+        "illuminate/database": "^6.20.14"
     },
 	"autoload": {
 		"classmap": [
